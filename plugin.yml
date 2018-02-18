@@ -1,0 +1,8 @@
+main: com.voidcraftplays.owlerymail.Main
+version: 1.0
+name: OwleryMail
+description: The owl mail system for Rowlery Realms
+commands:
+  owl:
+    aliases: [owlmail]
+    description: The owl mail system main command
